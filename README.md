@@ -1,0 +1,1 @@
+# kodekloud_argocd_project
